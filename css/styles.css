@@ -11434,3 +11434,41 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.project_certific {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+  font-style: normal;
+  cursor: pointer;
+
+}
+.certification_organization {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+
+.project_link {
+ 
+  color: #595959;
+  text-decoration: none;
+  font-style: normal;
+  cursor: pointer;
+}
+
+.project_bracket {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
